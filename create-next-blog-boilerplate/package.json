@@ -1,0 +1,21 @@
+{
+  "name": "create-next-blog-boilerplate",
+  "version": "1.0.0",
+  "description": "CLI to scaffold a Next.js blog using next-blog-boilerplate",
+  "bin": {
+    "create-next-blog-boilerplate": "./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "nextjs",
+    "boilerplate",
+    "blog",
+    "starter"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "ora": "^8.2.0"
+  }
+}
